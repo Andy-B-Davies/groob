@@ -1,0 +1,3 @@
+
+class PolyDivisionError(Exception):
+    pass
